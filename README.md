@@ -17,7 +17,13 @@ These questions are *especially* **important** because
 ## Interpreting Visualizations
 ![image](https://github.com/tvining9/mgt4250spring2024/assets/168783531/a269a28f-b773-4819-974b-416e3978813d)
 
-##Discussion & Summary
+## Discussion & Summary
+
+
+'''pyhton
+import pandas as pd
+'''
+
 
 [Elon University](https://www.elon.edu/)
 
