@@ -20,7 +20,7 @@ These questions are *especially* **important** because
 ## Discussion & Summary
 
 
-''' pyhton
+''' python
 import pandas as pd
 '''
 
